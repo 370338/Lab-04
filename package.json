@@ -1,0 +1,14 @@
+{
+    "name": "lab-04",
+    "version": "1.0.0",
+    "description": "Lab 4 for CIT 281",
+    "main": "lab-04.js",
+    "dependencies": {
+      "fastify": "^3.20.1"
+    },
+    "scripts": {
+      "start": "node lab-04.js"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+  }
